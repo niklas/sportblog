@@ -5,8 +5,8 @@ Preparation
   * it is a testing framework, so it runs in the :test environment
   * set up a db for it (everything will be deleted in every test run)
   * install gems: rspec, ZenTest
-  * script/generate rspec (just one time)
   * install plugins: rspec, rspec-rails
+  * script/generate rspec (just one time)
 
 Daily Work
   * use rspec_* generators

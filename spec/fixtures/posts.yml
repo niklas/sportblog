@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+welcome:
+  title: Welcome
+  body: Who this read will be dumb!
+
+two:
+  title: MyString
+  body: MyText
