@@ -11,9 +11,12 @@ describe "/posts/show.html.erb" do
 
   it "renders attributes in <p>" do
     render
+    # you stink
+    #
     response.should have_tag('p') do
       response.should have_text(/Mum/)
     end
+    # NOT
   end
 end
 
