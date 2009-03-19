@@ -16,6 +16,7 @@ describe "/posts/show.html.erb" do
     response.should have_tag('p') do
       response.should have_text(/Mum/)
     end
+    # NOT
   end
 end
 
