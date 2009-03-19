@@ -1,0 +1,12 @@
+tmp
+log
+doc
+config/database.yml
+vendor/rails
+db/*.sqlite
+db/*.sqlite2
+db/*.sqlite3
+db/*.db
+db/*.sql
+*swp
+public/system/photos
